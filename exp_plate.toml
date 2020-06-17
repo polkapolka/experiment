@@ -1,0 +1,58 @@
+[col.1]
+A.conc = 0
+B.conc = 0.1175
+C.conc = 0.1763
+D.conc = 0.235
+E.conc = 0.2938
+F.conc = 0.3525
+G.sample = 'blank'
+H.sample = 'blank'
+
+[block.1x4.A2]
+sample = '137 B 1'
+[block.1x4.A3]
+sample = '2219 B 1'
+[block.1x4.A4]
+sample = '2253 B 1'
+[block.1x4.A5]
+sample = '6-2122 F 1'
+[block.1x4.A6]
+sample = '1026 B 2'
+[block.1x4.A7]
+sample = '2237 B 2'
+[block.1x4.A8]
+sample = '6-2122 B 2'
+[block.1x4.A9]
+sample = '6-2122 F 3'
+[block.1x4.A10]
+sample = '2219 B'
+[block.1x4.A11]
+sample = '6-2122 B'
+[block.1x2.A12]
+sample = '2219 RTU'
+[block.1x3.C12]
+sample = '2253 RTU'
+[block.1x4.E2]
+sample = '1036 B 1'
+[block.1x4.E3]
+sample = '2237 B 1'
+[block.1x4.E4]
+sample = '6-2122 B 1'
+[block.1x4.E5]
+sample = '137 B 2'
+[block.1x4.E6]
+sample = '2219 B 2'
+[block.1x4.E7]
+sample = '2253 B 2'
+[block.1x4.E8]
+sample = '6-2122 F 2'
+[block.1x4.E9]
+sample = '1036 B'
+[block.1x4.E10]
+sample = '2253 B'
+[block.1x3.E11]
+sample = '1036 RTU'
+[block.1x1.H11]
+sample = '2219 RTU'
+[block.1x3.F12]
+sample = '6-2122 RTU'
